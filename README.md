@@ -47,7 +47,7 @@ A sample Run of the program :
 
 ![image](https://user-images.githubusercontent.com/36306586/58715569-d0704b80-83cf-11e9-9295-2f78fbe93150.png)
 
-On the right side of the screen you see the server side terminal on my ubuntu machine
-and on the left side of the screen you can see the client side.
+On the Second image of you see the server side terminal on my ubuntu machine
+and on the First image you can see the client side.
 
 As you can see its synchronized with each other and the results being shared between the server and the client can be seen on both terminals whether it was on the server side or the client side 
